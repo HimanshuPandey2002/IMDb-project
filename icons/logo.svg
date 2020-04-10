@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="43" viewBox="0 0 92 43">
+  <g id="logo" transform="translate(-565 -15)">
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(565 15)" fill="#f5c817" stroke="#846b17" stroke-width="1">
+      <rect width="92" height="43" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="91" height="42" rx="4.5" fill="none"/>
+    </g>
+    <text id="IMDb" transform="translate(611 46)" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-32.737" y="0">IMDb</tspan></text>
+  </g>
+</svg>

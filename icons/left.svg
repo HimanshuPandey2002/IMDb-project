@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="75" viewBox="0 0 49 75">
+  <g id="left" transform="translate(-553 -132)">
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(553 132)" fill="rgba(0,0,0,0.45)" stroke="#fff" stroke-width="1">
+      <rect width="49" height="75" rx="3" stroke="none"/>
+      <rect x="0.5" y="0.5" width="48" height="74" rx="2.5" fill="none"/>
+    </g>
+    <path id="chevron-down-solid" d="M16.3.53.569,15.2a1.726,1.726,0,0,0,0,2.561L2.4,19.469a2.044,2.044,0,0,0,2.744,0L17.673,7.849,30.2,19.473a2.044,2.044,0,0,0,2.744,0l1.835-1.711a1.726,1.726,0,0,0,0-2.561L19.047.53A2.044,2.044,0,0,0,16.3.53Z" transform="translate(568 187.179) rotate(-90)" fill="#fff"/>
+  </g>
+</svg>
